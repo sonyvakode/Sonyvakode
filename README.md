@@ -7,20 +7,27 @@
   1. This file lives in a repo named exactly "sonyvakode"
      (a repo matching your username) so GitHub renders it on
      your profile automatically.
-  2. Look for the word REPLACE in a comment tag to find the
-     few remaining placeholder items (project repo links).
-     Everything else is already filled in with your real info.
+  2. Project titles are now the clickable links themselves.
+     Find "REPLACE_LINK" and swap in your real repo URLs.
+  3. OPTIONAL - Snake contribution animation (section 07):
+     it needs a one-time GitHub Action. Steps:
+       a) In your "sonyvakode" repo, go to Settings > Secrets >
+          Actions is not needed, just add the workflow file.
+       b) Create .github/workflows/snake.yml using the template
+          at https://github.com/Platane/snk#-usage - it builds
+          the animated svg automatically on a schedule.
+     Until you add that workflow, that one image will show broken -
+     you can also just delete section 07 if you'd rather skip it.
   ============================================================
 -->
 
 <div align="center">
 
-<!-- ANIMATED TYPING HEADER -->
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Sony+Vakode;CS+Engineering+Student;Full+Stack+%2B+Data+Analytics;Building+things+that+ship" alt="Typing SVG" />
+<!-- ANIMATED WAVE BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:38BDF8&height=200&section=header&text=Sony%20Vakode&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=CS%20Engineering%20Student%20%7C%20Full%20Stack%20%2B%20Data%20Analytics&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4px">
+<!-- ANIMATED TYPING LINE -->
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+things+that+ship;Turning+data+into+decisions;Open+to+internships+%26+collabs" alt="Typing SVG" />
 
 </div>
 
@@ -125,7 +132,8 @@ Design · DSA — the fundamentals I don't want to shortcut.
 <tr>
 <td width="50%" valign="top">
 
-#### 🪔 Indian Wisdom — Local Proverbs Collector
+<!-- REPLACE_LINK with your real repo URL -->
+#### [🪔 Indian Wisdom — Local Proverbs Collector](https://github.com/sonyvakode/indian-wisdom)
 A Streamlit app preserving India's oral heritage, one proverb at a time.
 
 - 📝 Community-driven proverb submissions
@@ -135,12 +143,11 @@ A Streamlit app preserving India's oral heritage, one proverb at a time.
 
 `Python` `Streamlit` `Speech-to-Text` `Data Viz`
 
-
-
 </td>
 <td width="50%" valign="top">
 
-#### 🧠 MindEase AI
+<!-- REPLACE_LINK with your real repo URL -->
+#### [🧠 MindEase AI](https://github.com/sonyvakode/mindease-ai)
 An AI-based mental wellness assistant designed to make emotional
 check-ins feel simple, private, and human.
 
@@ -150,14 +157,13 @@ check-ins feel simple, private, and human.
 
 `Python` `AI/ML` `Streamlit`
 
-
-
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-#### 🌾 AgriSense
+<!-- REPLACE_LINK with your real repo URL -->
+#### [🌾 AgriSense](https://github.com/sonyvakode/agrisense)
 A smart agriculture platform bringing modern web tooling to farm
 decision-making.
 
@@ -167,12 +173,11 @@ decision-making.
 
 `React.js` `JavaScript` `REST API`
 
-
-
 </td>
 <td width="50%" valign="top">
 
-#### 🛒 E-Commerce Website
+<!-- REPLACE_LINK with your real repo URL -->
+#### [🛒 E-Commerce Website](https://github.com/sonyvakode/ecommerce-website)
 A full-stack, fully responsive shopping platform from browse to checkout.
 
 - 🛍️ Product catalog & cart system
@@ -180,8 +185,6 @@ A full-stack, fully responsive shopping platform from browse to checkout.
 - 📱 Responsive across all devices
 
 `React.js` `JavaScript` `HTML/CSS`
-
-
 
 </td>
 </tr>
@@ -206,7 +209,27 @@ A full-stack, fully responsive shopping platform from browse to checkout.
 
 <br/>
 
-### `06.` Coding Activity
+### `06.` Trophy Case
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=sonyvakode&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4px">
+
+### `07.` Contribution Snake
+
+<!-- Animated snake that eats your contribution graph - requires a small
+     one-time GitHub Action setup, see the comment at the top of this file -->
+<div align="center">
+<img src="https://raw.githubusercontent.com/sonyvakode/sonyvakode/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
+
+<br/>
+
+### `08.` Coding Activity
 
 <div align="center">
 
@@ -217,9 +240,7 @@ A full-stack, fully responsive shopping platform from browse to checkout.
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4px">
-
-### `07.` Currently Learning
+### `09.` Currently Learning
 
 <div align="center">
 
@@ -234,7 +255,7 @@ A full-stack, fully responsive shopping platform from browse to checkout.
 
 <div align="center">
 
-### `08.` Let's Connect
+### `10.` Let's Connect
 
 <a href="https://linkedin.com/in/sony-vakode-06a304349"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/sonyvakode"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -249,7 +270,7 @@ A full-stack, fully responsive shopping platform from browse to checkout.
 
 <img src="https://komarev.com/ghpvc/?username=sonyvakode&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS" />
 
-<br/><br/>
-<sub>Built with a lot of debugging — thanks for stopping by.</sub>
-
 </div>
+
+<!-- ANIMATED WAVE FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:0F172A&height=120&section=footer" width="100%"/>
