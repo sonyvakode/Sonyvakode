@@ -1,185 +1,230 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=850&lines=Hey%2C+I'm+Sony+Vakode+%F0%9F%91%8B;Full+Stack+Developer;React+%7C+Java+%7C+Python;Building+Real+World+Applications;Preparing+for+Software+Engineering+Roles" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=700&color=00C2FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Sony+Vakode+%F0%9F%91%8B;Computer+Science+Engineering+Student;Full+Stack+Developer;React+%7C+Java+%7C+Python;Building+Scalable+Software+Solutions" />
 
 <br/>
 
-<p>
-<a href="https://in.linkedin.com/in/sony-vakode-06a304349">
-<img src="https://img.shields.io/badge/LinkedIn-Sony%20Vakode-0A66C2?style=for-the-badge&logo=linkedin"/>
+<a href="https://linkedin.com/in/sony-vakode-06a304349">
+<img src="https://img.shields.io/badge/LinkedIn-Sony%20Vakode-blue?style=flat-square&logo=linkedin"/>
 </a>
 
 <a href="mailto:sonyvakode648@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Email-sonyvakode648%40gmail.com-red?style=flat-square&logo=gmail"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=sonyvakode&style=for-the-badge&color=38BDF8"/>
-
-</p>
+<a href="https://github.com/sonyvakode">
+<img src="https://img.shields.io/badge/GitHub-sonyvakode-black?style=flat-square&logo=github"/>
+</a>
 
 </div>
 
+
 # 👩‍💻 About Me
 
-Hi, I'm **Sony Vakode**, a Computer Science Engineering student passionate about creating scalable and user-focused software solutions.
+Hello! I'm **Sony Vakode**, a Computer Science Engineering student from Hyderabad, India.
 
-I specialize in **Full Stack Web Development**, building responsive frontend experiences and connecting them with efficient backend systems.
+I enjoy building applications that combine **clean user experiences, efficient backend systems, and intelligent data-driven solutions**.
 
-Currently focused on:
+Currently exploring:
 
-* Building production-ready web applications
-* Strengthening Data Structures & Algorithms
-* Improving problem-solving skills
-* Exploring backend architecture and system design
+- Full Stack Web Development
+- Data Structures & Algorithms
+- Backend Engineering
+- AI-powered Applications
+- Software Engineering Practices
 
-I enjoy turning ideas into real products and continuously improving as a software engineer.
 
----
+My goal is to build reliable software products and contribute to impactful engineering teams.
 
-# 💻 Developer Profile
-
-```yaml
-name: Sony Vakode
-
-role:
-  - Full Stack Developer
-  - Frontend Developer
-  - Software Engineer Aspirant
-
-education:
-  - B.Tech Computer Science Engineering
-
-location:
-  - Hyderabad, India
-
-current_focus:
-  - React Development
-  - Java Programming
-  - Data Structures & Algorithms
-  - Backend Development
-
-goal:
-  - Building impactful software products
-```
 
 ---
 
-# ⚡ Tech Arsenal
+# 💼 Experience
 
-### Frontend Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,tailwind,bootstrap"/>
-</p>
+### 🤖 AI & Data Intern — VISWAM.AI  
+**Swecha × IIIT Hyderabad | Jun 2025 – Jul 2025**
 
-### Backend Development
+- Worked with **10,000+ records** for AI-based applications.
+- Built data processing workflows and performed quality validation.
+- Analyzed datasets using Python and created EDA reports.
+- Tested workflows, debugged issues, and improved output reliability.
+- Recognized as **Tech Lead** for technical contribution and coordination.
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,flask"/>
-</p>
 
-### Programming Languages
+### 🌐 Front-End Development Intern — IBM SkillsBuild  
+**Edunet Foundation | Sep 2025 – Oct 2025**
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,c,cpp,python"/>
-</p>
+- Developed responsive web interfaces using modern frontend practices.
+- Integrated REST APIs and improved application usability.
+- Debugged frontend issues and participated in Agile reviews.
 
-### Database & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,postman,figma,vercel"/>
-</p>
 
 ---
 
-# 🚀 Featured Engineering Projects
+# 🚀 Featured Projects
 
-## 🛒 Full Stack E-Commerce Platform
 
-A complete web application focused on real-world shopping experience with modern UI, authentication, and backend services.
+## 🧠 MindEase AI
+
+AI-powered mental wellness platform focused on improving user support.
+
+**Features**
+- AI chatbot assistance
+- Mood tracking
+- Appointment scheduling
+- Authentication system
+- API integration
+
 
 **Built With**
 
-`React.js` `Node.js` `Express.js` `Database` `REST APIs`
+`React.js` `Firebase` `APIs`
+
 
 ---
 
-## 🌾 Agri Sense
 
-A technology-driven agriculture platform helping users access smart farming insights.
+## 🛒 E-Commerce Web Application
+
+Full-stack shopping application implementing real-world commerce workflows.
+
+**Features**
+
+- User authentication
+- Product catalogue
+- Cart management
+- Database integration
+- REST API communication
+
 
 **Built With**
 
-`React` `Python` `APIs` `Data Processing`
+`React.js` `MySQL` `REST APIs`
+
 
 ---
 
-## 🗣 Local Proverbs Collector
 
-A digital platform preserving Indian regional knowledge by collecting and organizing traditional proverbs.
+## 🌍 Air Quality Monitoring System
+
+Python-based system for processing environmental data and generating monitoring insights.
+
+**Features**
+
+- Data processing
+- Validation workflows
+- Environmental analysis
+
 
 **Built With**
 
-`Python` `Streamlit` `Data Processing`
+`Python` `IoT Data`
+
 
 ---
 
-## 🎓 CampusMate
 
-A student-focused assistant platform designed to simplify academic information access.
+# 🧩 Problem Solving & DSA
 
-**Built With**
 
-`React` `Python` `API Integration`
-
----
-
-# 🧠 Data Structures & Algorithms Journey
-
-I believe strong fundamentals build better engineers.
+I believe strong fundamentals create better engineers.
 
 Currently practicing:
 
-### Topics
+- Arrays & Strings
+- Recursion
+- Linked Lists
+- Stack & Queue
+- Trees
+- Graphs
+- Dynamic Programming
 
-* Arrays & Strings
-* Linked Lists
-* Stack & Queue
-* Recursion
-* Trees
-* Graphs
-* Dynamic Programming
-* Searching & Sorting
 
-### Coding Platforms
+<div align="center">
 
-<a href="YOUR_LEETCODE_PROFILE">
-<img src="https://img.shields.io/badge/LeetCode-Solving%20Problems-orange?style=for-the-badge&logo=leetcode"/>
+
+<a href="YOUR_LEETCODE_LINK">
+<img src="https://img.shields.io/badge/LeetCode-Practice-F89F1B?style=for-the-badge&logo=leetcode"/>
 </a>
+
 
 <a href="https://takeuforward.org/strivers-a2z-dsa-course/">
-<img src="https://img.shields.io/badge/Striver-A2Z%20DSA%20Sheet-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Striver-A2Z%20DSA-1E88E5?style=for-the-badge"/>
 </a>
 
-<a href="YOUR_HACKERRANK_PROFILE">
-<img src="https://img.shields.io/badge/HackerRank-Practice%20Profile-2EC866?style=for-the-badge&logo=hackerrank"/>
+
+<a href="YOUR_HACKERRANK_LINK">
+<img src="https://img.shields.io/badge/HackerRank-Solving-2EC866?style=for-the-badge&logo=hackerrank"/>
 </a>
+
+
+</div>
+
 
 ---
 
-# 📈 Coding Statistics
+# 🛠 Development Skills
+
+
+**Languages**
+
+Python • Java • C • JavaScript
+
+
+**Frontend**
+
+React.js • HTML • CSS
+
+
+**Backend & Database**
+
+REST APIs • Firebase • Firestore • MySQL
+
+
+**Tools**
+
+Git • GitHub • VS Code • Streamlit
+
+
+---
+
+# 🏆 Achievements
+
+
+🥉 **3rd Place — IEEE Sensors Council Competition**
+
+Recognized for technical problem-solving and teamwork.
+
+
+⭐ **Tech Lead — VISWAM.AI Internship**
+
+Led technical contributions and coordinated team activities.
+
+
+📌 **IEEE Member**
+
+Active participation in technical and professional activities.
+
+
+---
+
+# 📊 GitHub Insights
+
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sonyvakode&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=sonyvakode&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonyvakode&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonyvakode&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
+
 ---
 
-# 🔥 Consistency Matters
+# 🔥 Coding Activity
+
 
 <p align="center">
 
@@ -187,48 +232,13 @@ Currently practicing:
 
 </p>
 
----
-
-# 🏆 Achievements & Growth
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sonyvakode&theme=algolia&no-frame=true&margin-w=10"/>
-
-</p>
 
 ---
-
-# 🌱 Currently Exploring
-
-```
-✓ Advanced React Patterns
-✓ Backend Architecture
-✓ Java + DSA
-✓ Open Source Contribution
-✓ Software Engineering Best Practices
-```
-
----
-
-# 🤝 Let's Build Something Together
-
-<p align="center">
-
-<a href="https://in.linkedin.com/in/sony-vakode-06a304349">
-<img src="https://img.shields.io/badge/Connect%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:sonyvakode648@gmail.com">
-<img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile
+### Building. Learning. Engineering.
 
-**Code • Create • Learn • Improve**
+⭐ Explore my repositories and let's connect!
 
 </div>
