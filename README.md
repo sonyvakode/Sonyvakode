@@ -1,19 +1,17 @@
 <!--
   ============================================================
-  README.md — GitHub Profile
+  README.md - GitHub Profile
   Owner: Sony Vakode
   ------------------------------------------------------------
   HOW TO USE THIS FILE
-  1. Replace every instance of "sonyvakode" with your actual
-     GitHub username (used in stats cards, streak stats, trophies).
-  2. Replace placeholder links marked with <!-- REPLACE --> comments:
-       - LinkedIn URL
-       - Email address
-       - LeetCode / HackerRank / Kaggle usernames
-       - Project repo & live-demo links
-       - Project screenshot/GIF URLs
-  3. This file goes in a repo named exactly "sonyvakode"
-     (a repo matching your username) → GitHub renders it on your profile.
+  1. This file lives in a repo named exactly "sonyvakode"
+     (a repo matching your username) so GitHub renders it on
+     your profile automatically.
+  2. Look for the word REPLACE in a comment tag to find the
+     few remaining placeholder items (project repo links and
+     screenshot/GIF URLs). Everything else (LinkedIn, GitHub,
+     Email, LeetCode, username in stats widgets) is already
+     filled in with your real info.
   ============================================================
 -->
 
@@ -77,9 +75,9 @@ shipping real projects on the side.
 <td width="84%">
 
 **Tech Lead Intern** · Viswam.ai
-Leading work on a **Corpus Collection Engine** and shipping
-**AI-powered Streamlit applications** used for regional language data
-collection at scale.
+- Working on the **Corpus Collection Engine**.
+- Building **Streamlit-based applications**.
+- Contributing to **AI-powered data collection solutions**.
 
 </td>
 </tr>
@@ -250,10 +248,10 @@ A full-stack, fully responsive shopping platform from browse to checkout.
 
 <div align="center">
 
-<!-- REPLACE usernames below -->
-<img src="https://img.shields.io/badge/LeetCode-sonyvakode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-<img src="https://img.shields.io/badge/HackerRank-sonyvakode-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-<img src="https://img.shields.io/badge/Kaggle-sonyvakode-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+<a href="https://leetcode.com/u/sonyvakode/"><img src="https://img.shields.io/badge/LeetCode-sonyvakode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<!-- REPLACE with your real HackerRank / Kaggle profile URLs if you have them -->
+<a href="#"><img src="https://img.shields.io/badge/HackerRank-sonyvakode-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Kaggle-sonyvakode-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
 
 </div>
 
@@ -288,10 +286,9 @@ A full-stack, fully responsive shopping platform from browse to checkout.
 
 ### `08.` Let's Connect
 
-<!-- REPLACE the links below with your real profiles -->
-<a href="https://linkedin.com/in/sonyvakode"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/sony-vakode-06a304349"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/sonyvakode"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="mailto:sonyvakode@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:sonyvakode648@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br/><br/>
 
