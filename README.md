@@ -135,8 +135,7 @@ A Streamlit app preserving India's oral heritage, one proverb at a time.
 
 `Python` `Streamlit` `Speech-to-Text` `Data Viz`
 
-<!-- REPLACE with your repo/demo links -->
-[`Source`](https://github.com/sonyvakode/indian-wisdom) · [`Live Demo`](#)
+
 
 </td>
 <td width="50%" valign="top">
@@ -151,8 +150,7 @@ check-ins feel simple, private, and human.
 
 `Python` `AI/ML` `Streamlit`
 
-<!-- REPLACE with your repo/demo links -->
-[`Source`](https://github.com/sonyvakode/mindease-ai) · [`Live Demo`](#)
+
 
 </td>
 </tr>
@@ -169,8 +167,7 @@ decision-making.
 
 `React.js` `JavaScript` `REST API`
 
-<!-- REPLACE with your repo/demo links -->
-[`Source`](https://github.com/sonyvakode/agrisense) · [`Live Demo`](#)
+
 
 </td>
 <td width="50%" valign="top">
@@ -184,8 +181,7 @@ A full-stack, fully responsive shopping platform from browse to checkout.
 
 `React.js` `JavaScript` `HTML/CSS`
 
-<!-- REPLACE with your repo/demo links -->
-[`Source`](https://github.com/sonyvakode/ecommerce-website) · [`Live Demo`](#)
+
 
 </td>
 </tr>
