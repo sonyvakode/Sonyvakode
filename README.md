@@ -1,24 +1,16 @@
 <div align="center">
 
-# 👋 Hi, I'm Sony Vakode
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Java+%7C+Python;Building+Modern+Web+Applications;Open+to+Software+Engineering+Internships+2026" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=850&lines=Hey%2C+I'm+Sony+Vakode+%F0%9F%91%8B;Full+Stack+Developer;React+%7C+Java+%7C+Python;Building+Real+World+Applications;Preparing+for+Software+Engineering+Roles" />
 
 <br/>
 
-### Computer Science Engineering Student | Full Stack Developer | Software Engineer Intern Aspirant
-
 <p>
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://in.linkedin.com/in/sony-vakode-06a304349">
+<img src="https://img.shields.io/badge/LinkedIn-Sony%20Vakode-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:sonyvakode648@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=sonyvakode&style=for-the-badge&color=38BDF8"/>
@@ -27,130 +19,167 @@
 
 </div>
 
+# 👩‍💻 About Me
+
+Hi, I'm **Sony Vakode**, a Computer Science Engineering student passionate about creating scalable and user-focused software solutions.
+
+I specialize in **Full Stack Web Development**, building responsive frontend experiences and connecting them with efficient backend systems.
+
+Currently focused on:
+
+* Building production-ready web applications
+* Strengthening Data Structures & Algorithms
+* Improving problem-solving skills
+* Exploring backend architecture and system design
+
+I enjoy turning ideas into real products and continuously improving as a software engineer.
+
 ---
 
-## 🚀 About Me
+# 💻 Developer Profile
 
-```javascript
-const sony = {
-    education: "B.Tech Computer Science Engineering Student",
-    location: "Hyderabad, India",
+```yaml
+name: Sony Vakode
 
-    role: [
-        "Full Stack Developer",
-        "Frontend Developer",
-        "Software Engineering Intern Aspirant"
-    ],
+role:
+  - Full Stack Developer
+  - Frontend Developer
+  - Software Engineer Aspirant
 
-    currentlyLearning: [
-        "Data Structures & Algorithms",
-        "Java",
-        "Backend Development",
-        "System Design"
-    ],
+education:
+  - B.Tech Computer Science Engineering
 
-    interests: [
-        "Building scalable web applications",
-        "Creating clean user experiences",
-        "Open Source Contribution"
-    ]
-};
+location:
+  - Hyderabad, India
+
+current_focus:
+  - React Development
+  - Java Programming
+  - Data Structures & Algorithms
+  - Backend Development
+
+goal:
+  - Building impactful software products
 ```
 
-I enjoy transforming ideas into functional digital products by combining modern frontend technologies with efficient backend solutions.
-
-Currently exploring opportunities where I can contribute, learn from experienced engineers, and build impactful software.
-
 ---
 
-# 💻 Technical Skills
+# ⚡ Tech Arsenal
 
-## Languages
+### Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript,typescript"/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,tailwind,bootstrap"/>
 </p>
 
-## Web Development
+### Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,tailwind"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,flask"/>
 </p>
 
-## Backend & Database
+### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=django,flask,mysql"/>
+<img src="https://skillicons.dev/icons?i=java,c,cpp,python"/>
 </p>
 
-## Developer Tools
+### Database & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,postman,figma,vercel"/>
 </p>
 
 ---
 
-# 🌟 Featured Projects
+# 🚀 Featured Engineering Projects
 
 ## 🛒 Full Stack E-Commerce Platform
 
-A modern shopping platform with responsive UI, product management, authentication, and backend integration.
+A complete web application focused on real-world shopping experience with modern UI, authentication, and backend services.
 
-**Tech Stack:**
-React.js • Node.js • Express.js • MySQL • REST APIs
+**Built With**
+
+`React.js` `Node.js` `Express.js` `Database` `REST APIs`
 
 ---
 
 ## 🌾 Agri Sense
 
-A smart agriculture platform designed to provide farmers with useful insights and digital solutions.
+A technology-driven agriculture platform helping users access smart farming insights.
 
-**Tech Stack:**
-React • Python • APIs • Data Processing
+**Built With**
+
+`React` `Python` `APIs` `Data Processing`
 
 ---
 
 ## 🗣 Local Proverbs Collector
 
-A platform focused on preserving regional Indian knowledge by collecting and organizing traditional proverbs.
+A digital platform preserving Indian regional knowledge by collecting and organizing traditional proverbs.
 
-**Tech Stack:**
-Python • Streamlit • Data Processing
+**Built With**
 
----
-
-## 🎓 CampusMate Chatbot
-
-A student assistant platform designed to help students access academic information easily.
-
-**Tech Stack:**
-React • Python • APIs
+`Python` `Streamlit` `Data Processing`
 
 ---
 
-## 📈 Stock Market Prediction
+## 🎓 CampusMate
 
-Machine learning project analyzing historical market data and predicting stock trends.
+A student-focused assistant platform designed to simplify academic information access.
 
-**Tech Stack:**
-Python • Pandas • Scikit-learn
+**Built With**
+
+`React` `Python` `API Integration`
 
 ---
 
-# 📊 GitHub Performance
+# 🧠 Data Structures & Algorithms Journey
+
+I believe strong fundamentals build better engineers.
+
+Currently practicing:
+
+### Topics
+
+* Arrays & Strings
+* Linked Lists
+* Stack & Queue
+* Recursion
+* Trees
+* Graphs
+* Dynamic Programming
+* Searching & Sorting
+
+### Coding Platforms
+
+<a href="YOUR_LEETCODE_PROFILE">
+<img src="https://img.shields.io/badge/LeetCode-Solving%20Problems-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://takeuforward.org/strivers-a2z-dsa-course/">
+<img src="https://img.shields.io/badge/Striver-A2Z%20DSA%20Sheet-blue?style=for-the-badge"/>
+</a>
+
+<a href="YOUR_HACKERRANK_PROFILE">
+<img src="https://img.shields.io/badge/HackerRank-Practice%20Profile-2EC866?style=for-the-badge&logo=hackerrank"/>
+</a>
+
+---
+
+# 📈 Coding Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sonyvakode&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sonyvakode&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonyvakode&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonyvakode&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🔥 Coding Streak
+# 🔥 Consistency Matters
 
 <p align="center">
 
@@ -160,44 +189,46 @@ Python • Pandas • Scikit-learn
 
 ---
 
-# 🏆 Achievements
+# 🏆 Achievements & Growth
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sonyvakode&theme=algolia&no-frame=true&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sonyvakode&theme=algolia&no-frame=true&margin-w=10"/>
 
 </p>
 
 ---
 
-# 📈 Contribution Activity
+# 🌱 Currently Exploring
+
+```
+✓ Advanced React Patterns
+✓ Backend Architecture
+✓ Java + DSA
+✓ Open Source Contribution
+✓ Software Engineering Best Practices
+```
+
+---
+
+# 🤝 Let's Build Something Together
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sonyvakode&theme=tokyo-night&hide_border=true"/>
+<a href="https://in.linkedin.com/in/sony-vakode-06a304349">
+<img src="https://img.shields.io/badge/Connect%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:sonyvakode648@gmail.com">
+<img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail"/>
+</a>
 
 </p>
-
----
-
-# 🤝 Let's Connect
-
-<p>
-
-💼 LinkedIn: YOUR_LINKEDIN_URL
-
-🌐 Portfolio: YOUR_PORTFOLIO_URL
-
-📧 Email: YOUR_EMAIL
-
-</p>
-
----
 
 <div align="center">
 
-### "Building. Learning. Improving. Every day."
+### ⭐ Thanks for visiting my profile
 
-⭐ Feel free to explore my repositories and connect with me!
+**Code • Create • Learn • Improve**
 
 </div>
