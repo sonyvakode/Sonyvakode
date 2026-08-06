@@ -1,25 +1,27 @@
 <div align="center">
 
-# Hi 👋, I'm Sony Vakode
+# 👋 Hi, I'm Sony Vakode
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Software+Developer;Full+Stack+Developer;React+%7C+Java+%7C+Python;Open+to+Software+Engineering+Internships+2026" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Java+%7C+Python;Building+Modern+Web+Applications;Open+to+Software+Engineering+Internships+2026" />
 
-### Computer Science Engineering Student | Full Stack Developer | Problem Solver
+<br/>
+
+### Computer Science Engineering Student | Full Stack Developer | Software Engineer Intern Aspirant
 
 <p>
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=sonyvakode&style=for-the-badge&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=sonyvakode&style=for-the-badge&color=38BDF8"/>
 
 </p>
 
@@ -27,51 +29,61 @@
 
 ---
 
-# 👩‍💻 About Me
+## 🚀 About Me
 
-🎓 Third Year Computer Science Engineering Student
+```javascript
+const sony = {
+    education: "B.Tech Computer Science Engineering Student",
+    location: "Hyderabad, India",
 
-💻 Passionate about Full Stack Development
+    role: [
+        "Full Stack Developer",
+        "Frontend Developer",
+        "Software Engineering Intern Aspirant"
+    ],
 
-🌱 Currently learning
+    currentlyLearning: [
+        "Data Structures & Algorithms",
+        "Java",
+        "Backend Development",
+        "System Design"
+    ],
 
-- Java
-- Data Structures & Algorithms
-- System Design
-- Backend Development
+    interests: [
+        "Building scalable web applications",
+        "Creating clean user experiences",
+        "Open Source Contribution"
+    ]
+};
+```
 
-🚀 Looking for
+I enjoy transforming ideas into functional digital products by combining modern frontend technologies with efficient backend solutions.
 
-- Software Engineering Internship
-- Full Stack Internship
-- Startup Opportunities
-- Open Source Contributions
-
-📍 Hyderabad, India
+Currently exploring opportunities where I can contribute, learn from experienced engineers, and build impactful software.
 
 ---
 
-# 🛠 Tech Stack
+# 💻 Technical Skills
 
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,c,cpp,html,css"/>
-</p>
-
-### Frameworks
+## Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,bootstrap"/>
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript,typescript"/>
 </p>
 
-### Database
+## Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql"/>
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,tailwind"/>
 </p>
 
-### Tools
+## Backend & Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=django,flask,mysql"/>
+</p>
+
+## Developer Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel"/>
@@ -79,76 +91,104 @@
 
 ---
 
-# 🚀 Featured Projects
+# 🌟 Featured Projects
 
-### 🌾 Agri Sense
-AI-powered agriculture platform helping farmers with crop insights.
+## 🛒 Full Stack E-Commerce Platform
 
-### 🗣 Local Proverbs Collector
-Open-source platform to preserve regional Indian proverbs using AI.
+A modern shopping platform with responsive UI, product management, authentication, and backend integration.
 
-### 🧠 Mental Wellness Platform
-Mood tracking and AI-powered mental wellness application.
-
-### 🎓 CampusMate Chatbot
-Student assistant chatbot for academic support.
-
-### 📈 Stock Market Prediction
-Machine Learning project for predicting stock prices using historical data.
+**Tech Stack:**
+React.js • Node.js • Express.js • MySQL • REST APIs
 
 ---
 
-# 📊 GitHub Analytics
+## 🌾 Agri Sense
+
+A smart agriculture platform designed to provide farmers with useful insights and digital solutions.
+
+**Tech Stack:**
+React • Python • APIs • Data Processing
+
+---
+
+## 🗣 Local Proverbs Collector
+
+A platform focused on preserving regional Indian knowledge by collecting and organizing traditional proverbs.
+
+**Tech Stack:**
+Python • Streamlit • Data Processing
+
+---
+
+## 🎓 CampusMate Chatbot
+
+A student assistant platform designed to help students access academic information easily.
+
+**Tech Stack:**
+React • Python • APIs
+
+---
+
+## 📈 Stock Market Prediction
+
+Machine learning project analyzing historical market data and predicting stock trends.
+
+**Tech Stack:**
+Python • Pandas • Scikit-learn
+
+---
+
+# 📊 GitHub Performance
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sonyvakode&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sonyvakode&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonyvakode&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonyvakode&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+# 🔥 Coding Streak
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=sonyvakode&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=sonyvakode&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 Achievements
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sonyvakode&theme=algolia&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sonyvakode&theme=algolia&no-frame=true&row=1"/>
 
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Contribution Activity
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sonyvakode&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sonyvakode&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📫 Connect with Me
+# 🤝 Let's Connect
 
 <p>
 
-💼 LinkedIn : YOUR_LINKEDIN
+💼 LinkedIn: YOUR_LINKEDIN_URL
 
-🌐 Portfolio : YOUR_PORTFOLIO
+🌐 Portfolio: YOUR_PORTFOLIO_URL
 
-📧 Email : YOUR_EMAIL
+📧 Email: YOUR_EMAIL
 
 </p>
 
@@ -156,8 +196,8 @@ Machine Learning project for predicting stock prices using historical data.
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### "Building. Learning. Improving. Every day."
 
-If you like my work, don't forget to ⭐ my repositories.
+⭐ Feel free to explore my repositories and connect with me!
 
 </div>
