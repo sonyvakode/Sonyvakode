@@ -12,14 +12,21 @@
   ============================================================
 -->
 
-# Sony Vakode
+<div align="center">
 
-**B.Tech CSE Student · Full Stack Development · Data Analytics**
-Hyderabad, India
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F2937,100:1F6FEB&height=180&section=header&text=Sony%20Vakode&fontSize=48&fontColor=FFFFFF&fontAlignY=42&desc=Full%20Stack%20Development%20%7C%20Data%20Analytics&descAlignY=62&descSize=16&animation=fadeIn" width="100%"/>
 
-[LinkedIn](https://linkedin.com/in/sony-vakode-06a304349) · [Email](mailto:sonyvakode648@gmail.com) · [LeetCode](https://leetcode.com/u/sonyvakode/)
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=2800&pause=1200&color=1F6FEB&center=true&vCenter=true&width=560&lines=B.Tech+CSE+Student+%C2%B7+Hyderabad;Building+things+that+ship;Open+to+internships+%26+collabs" alt="Typing SVG" />
 
----
+<br/>
+
+<a href="https://linkedin.com/in/sony-vakode-06a304349"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:sonyvakode648@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://leetcode.com/u/sonyvakode/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+
+</div>
+
+<br/>
 
 ## About
 
@@ -33,10 +40,10 @@ Two internships this year, in front-end development and AI-driven
 data collection, shaped how I think about building software: ship
 fast, test early, and make sure the numbers actually mean something.
 
-Currently strengthening my fundamentals in Data Analytics, Advanced
-Java, System Design, and DSA.
+Currently strengthening my fundamentals in **Data Analytics**,
+**Advanced Java**, **System Design**, and **DSA**.
 
----
+<br/>
 
 ## Experience
 
@@ -55,18 +62,26 @@ Java, System Design, and DSA.
 **Software Developer Intern** — Cognifyz Technologies
 - Built data-driven Python and Streamlit applications, focused on clean UI and fast iteration
 
----
+<br/>
 
-## Technical Skills
+## Tech Stack
 
-| | |
-|---|---|
-| **Languages** | Python, Java, C, JavaScript |
-| **Frontend** | HTML, CSS, React.js |
-| **Backend** | JavaScript, Node.js, REST APIs |
-| **Platforms & Tools** | Git, GitHub, VS Code, Kaggle, Netlify, Vercel, Lovable, Streamlit |
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,react,nodejs&theme=dark" />
+<br/><br/>
+<img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+<img src="https://img.shields.io/badge/Lovable-FF3366?style=for-the-badge&logo=lovable&logoColor=white" />
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+
+</div>
+
+<br/>
 
 ## Projects
 
@@ -91,20 +106,36 @@ Full-stack, fully responsive shopping platform covering product catalog,
 cart, and order flow end to end.
 `React.js` `JavaScript` `HTML/CSS`
 
----
+<br/>
 
 ## GitHub Stats
 
 <div align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=sonyvakode&show_icons=true&theme=default&hide_border=true&title_color=1F6FEB&icon_color=1F6FEB" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonyvakode&layout=compact&hide_border=true&title_color=1F6FEB" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sonyvakode&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1F6FEB&icon_color=1F6FEB&text_color=C9D1D9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonyvakode&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1F6FEB&text_color=C9D1D9" />
 </div>
 
----
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sonyvakode&theme=tokyonight&hide_border=true&background=0D1117&stroke=1F6FEB&ring=1F6FEB&fire=1F6FEB&currStreakLabel=1F6FEB" />
+</div>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=sonyvakode&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
+</div>
+
+<br/>
 
 ## Contact
 
-- **LinkedIn:** [linkedin.com/in/sony-vakode-06a304349](https://linkedin.com/in/sony-vakode-06a304349)
-- **GitHub:** [github.com/sonyvakode](https://github.com/sonyvakode)
-- **Email:** sonyvakode648@gmail.com
-- **LeetCode:** [leetcode.com/u/sonyvakode](https://leetcode.com/u/sonyvakode/)
+<div align="center">
+
+<a href="https://linkedin.com/in/sony-vakode-06a304349"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/sonyvakode"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:sonyvakode648@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<br/><br/>
+<img src="https://komarev.com/ghpvc/?username=sonyvakode&style=for-the-badge&color=1F6FEB&label=PROFILE+VIEWS" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:1F2937&height=100&section=footer" width="100%"/>
