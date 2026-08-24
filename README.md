@@ -85,23 +85,23 @@ Currently strengthening my fundamentals in **Data Analytics**,
 
 ## Projects
 
-**[Indian Wisdom — Local Proverbs Collector](https://github.com/sonyvakode/indian-wisdom)** <!-- REPLACE_LINK -->
+**[Indian Wisdom — Local Proverbs Collector]** <!-- REPLACE_LINK -->
 Streamlit application for collecting Indian regional proverbs, with user
 submissions, audio upload and speech-to-text conversion, translation,
 and a regional statistics dashboard.
 `Python` `Streamlit` `Speech-to-Text`
 
-**[MindEase AI](https://github.com/sonyvakode/mindease-ai)** <!-- REPLACE_LINK -->
+**[MindEase AI]** <!-- REPLACE_LINK -->
 AI-based mental wellness assistant built around a conversational
 check-in flow and mood pattern tracking.
 `Python` `AI/ML` `Streamlit`
 
-**[AgriSense](https://github.com/sonyvakode/agrisense)** <!-- REPLACE_LINK -->
+**[AgriSense]** <!-- REPLACE_LINK -->
 Smart agriculture platform using modern web technologies to surface
 real-time, data-driven insights for farm monitoring.
 `React.js` `JavaScript` `REST API`
 
-**[E-Commerce Website](https://github.com/sonyvakode/ecommerce-website)** <!-- REPLACE_LINK -->
+**[E-Commerce Website]** <!-- REPLACE_LINK -->
 Full-stack, fully responsive shopping platform covering product catalog,
 cart, and order flow end to end.
 `React.js` `JavaScript` `HTML/CSS`
