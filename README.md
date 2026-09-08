@@ -67,7 +67,7 @@ Problem Solving→ Java • DSA • LeetCode
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,aws,gcp&perline=8"/>
+<img src="https://skillicons.dev/icons?i=java,python,c=8"/>
 
 </div>
 
