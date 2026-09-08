@@ -1,141 +1,234 @@
-<!--
-  ============================================================
-  README.md - GitHub Profile
-  Owner: Sony Vakode
-  ------------------------------------------------------------
-  HOW TO USE THIS FILE
-  1. This file lives in a repo named exactly "sonyvakode"
-     (a repo matching your username) so GitHub renders it on
-     your profile automatically.
-  2. Project titles are the clickable links. Find REPLACE_LINK
-     and swap in your real repo URLs.
-  ============================================================
--->
+# Hi, I'm Sony Vakode 👋
 
-<div align="center">
+### Full-Stack Developer | React.js | Next.js | Node.js
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F2937,100:1F6FEB&height=180&section=header&text=Sony%20Vakode&fontSize=48&fontColor=FFFFFF&fontAlignY=42&desc=Full%20Stack%20Development%20%7C%20Data%20Analytics&descAlignY=62&descSize=16&animation=fadeIn" width="100%"/>
+I'm a **Final-Year Computer Science Engineering student** passionate about building modern, responsive, and scalable web applications.
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=2800&pause=1200&color=1F6FEB&center=true&vCenter=true&width=560&lines=B.Tech+CSE+Student+%C2%B7+Hyderabad;Building+things+that+ship;Open+to+internships+%26+collabs" alt="Typing SVG" />
+I enjoy turning ideas into **real-world products** — from designing intuitive user interfaces to developing APIs, integrating databases, and deploying complete applications.
 
-<br/>
+Currently, I'm focused on strengthening my skills in **Full-Stack Development, Data Structures & Algorithms, System Design, and Software Engineering**.
 
-<a href="https://linkedin.com/in/sony-vakode-06a304349"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:sonyvakode648@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://leetcode.com/u/sonyvakode/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+---
 
-</div>
+## 🚀 About Me
 
-<br/>
+* 🎓 Final-Year **Computer Science Engineering** student
+* 💻 Focused on **Frontend & Full-Stack Web Development**
+* ⚛️ Building applications with **React.js, Next.js, JavaScript & TypeScript**
+* 🔧 Developing backend services using **Node.js & REST APIs**
+* 🗄️ Working with **SQL & NoSQL databases**
+* 🌐 Interested in building **production-ready web applications**
+* 🤝 Open to **Software Engineering / Full-Stack Development opportunities**
+* 📍 Hyderabad, India
 
-## About
+---
 
-I'm a Computer Science Engineering student who works across two areas:
-data analytics and full stack development. I like taking a messy
-dataset or a rough product idea and turning it into something that
-actually works — a dashboard that answers a real question, or an
-application people can use end to end.
+## 🛠️ Tech Stack
 
-Two internships this year, in front-end development and AI-driven
-data collection, shaped how I think about building software: ship
-fast, test early, and make sure the numbers actually mean something.
+### Frontend
 
-Currently strengthening my fundamentals in **Data Analytics**,
-**Advanced Java**, **System Design**, and **DSA**.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=next.js\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square\&logo=tailwindcss\&logoColor=white)
 
-<br/>
+### Backend
 
-## Experience
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square\&logo=express\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square)
 
-**Front-End Development Intern** — IBM SkillsBuild × Edunet Foundation
-*Sep 2025 – Oct 2025 · Remote*
-- Developed responsive web interfaces and integrated REST APIs against defined functional requirements
-- Tested and debugged application functionality to improve reliability and usability
-- Collaborated in Agile sprint reviews, delivering improvements within project timelines
+### Databases
 
-**Tech Lead Intern** — Viswam.ai (Swecha, IIIT Hyderabad)
-*Jun 2025 – Jul 2025*
-- Worked on the Corpus Collection Engine for regional-language data
-- Built Streamlit-based applications for data collection workflows
-- Contributed to AI-powered data collection tooling end to end
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
 
-**Software Developer Intern** — Cognifyz Technologies
-- Built data-driven Python and Streamlit applications, focused on clean UI and fast iteration
+### Programming
 
-<br/>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square\&logo=c\&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
 
-## Tech Stack
+### Tools & Platforms
 
-<div align="center">
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square\&logo=vercel\&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square\&logo=netlify\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square\&logo=amazonaws\&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square\&logo=googlecloud\&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,react,nodejs&theme=dark" />
-<br/><br/>
-<img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-<img src="https://img.shields.io/badge/Lovable-FF3366?style=for-the-badge&logo=lovable&logoColor=white" />
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+---
 
-</div>
+## 💼 Experience
 
-<br/>
+### Tech Lead Intern — Viswam.ai
 
-## Projects
+**2025**
 
-**[Indian Wisdom — Local Proverbs Collector]** <!-- REPLACE_LINK -->
-Streamlit application for collecting Indian regional proverbs, with user
-submissions, audio upload and speech-to-text conversion, translation,
-and a regional statistics dashboard.
-`Python` `Streamlit` `Speech-to-Text`
+* Contributed to the development of data collection and web-based application workflows.
+* Built and improved Streamlit-based applications.
+* Worked on the **Corpus Collection Engine** for regional-language data.
+* Collaborated on end-to-end development and feature implementation.
 
-**[MindEase AI]** <!-- REPLACE_LINK -->
-AI-based mental wellness assistant built around a conversational
-check-in flow and mood pattern tracking.
-`Python` `AI/ML` `Streamlit`
+### Software Developer Intern — Cognifyz Technologies
 
-**[AgriSense]** <!-- REPLACE_LINK -->
-Smart agriculture platform using modern web technologies to surface
-real-time, data-driven insights for farm monitoring.
-`React.js` `JavaScript` `REST API`
+**2025**
 
-**[E-Commerce Website]** <!-- REPLACE_LINK -->
-Full-stack, fully responsive shopping platform covering product catalog,
-cart, and order flow end to end.
-`React.js` `JavaScript` `HTML/CSS`
+* Developed Python and Streamlit applications.
+* Implemented user-focused interfaces and application workflows.
+* Worked on data-driven application development and debugging.
 
-<br/>
+### Front-End Development Intern — IBM SkillsBuild × Edunet Foundation
 
-## GitHub Stats
+**2025**
 
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sonyvakode&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1F6FEB&icon_color=1F6FEB&text_color=C9D1D9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonyvakode&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1F6FEB&text_color=C9D1D9" />
-</div>
+* Developed responsive web interfaces.
+* Integrated REST APIs into frontend applications.
+* Worked on debugging, testing, and improving application usability.
+* Followed structured development workflows and project requirements.
 
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sonyvakode&theme=tokyonight&hide_border=true&background=0D1117&stroke=1F6FEB&ring=1F6FEB&fire=1F6FEB&currStreakLabel=1F6FEB" />
-</div>
+---
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sonyvakode&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
-</div>
+## 🚀 Featured Projects
 
-<br/>
+### 🛒 E-Commerce Platform
 
-## Contact
+A responsive e-commerce application designed around a complete online shopping workflow.
 
-<div align="center">
+**Key Features**
 
-<a href="https://linkedin.com/in/sony-vakode-06a304349"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/sonyvakode"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="mailto:sonyvakode648@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+* Product browsing and catalog
+* Shopping cart
+* Responsive UI
+* Product-focused user experience
+* End-to-end shopping flow
 
-<br/><br/>
-<img src="https://komarev.com/ghpvc/?username=sonyvakode&style=for-the-badge&color=1F6FEB&label=PROFILE+VIEWS" />
+**Tech:** React.js · JavaScript · HTML · CSS
 
-</div>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:1F2937&height=100&section=footer" width="100%"/>
+### 🌾 Agri-Sense
+
+A smart agriculture platform designed to provide farmers with accessible, data-driven insights.
+
+**Key Features**
+
+* Responsive dashboard
+* Real-time data integration
+* Agricultural monitoring
+* API integration
+* Modern responsive interface
+
+**Tech:** React.js · JavaScript · REST APIs
+
+---
+
+### 🗺️ HiddenGems
+
+A web platform focused on discovering lesser-known tourist destinations and helping users explore places beyond conventional tourist spots.
+
+**Tech:** JavaScript · Web Technologies
+
+---
+
+### 🎓 CampusMate
+
+A campus-focused chatbot designed to help students access information and interact with university-related resources.
+
+**Tech:** Python · Chatbot · NLP
+
+---
+
+### 🧠 Mental Wellness Platform
+
+A web-based platform focused on mood tracking, personalized insights, and emotional well-being awareness.
+
+**Tech:** TypeScript · Web Technologies
+
+---
+
+### 🇮🇳 Indian Wisdom
+
+An application for collecting and preserving traditional Indian regional proverbs.
+
+**Features**
+
+* Text and voice input
+* Audio upload
+* Speech-to-text
+* Translation
+* Regional statistics
+* Data collection workflows
+
+**Tech:** Python · Streamlit · Speech-to-Text
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sonyvakode&show_icons=true&hide_border=true&rank_icon=github" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonyvakode&layout=compact&hide_border=true" height="165"/>
+</p>
+
+---
+
+## 📈 Current Focus
+
+```text
+Full-Stack Development
+        ↓
+React.js → Next.js → Node.js → REST APIs
+        ↓
+MongoDB / SQL
+        ↓
+Authentication → Role-Based Systems → Deployment
+        ↓
+Production-Ready Applications
+```
+
+Alongside development, I'm working on:
+
+* Data Structures & Algorithms
+* Advanced Java
+* System Design fundamentals
+* Software Engineering practices
+* Building and deploying real-world applications
+
+---
+
+## 🎯 Career Goals
+
+I'm looking to work with teams where I can:
+
+* Build real-world software products
+* Work with modern frontend and backend technologies
+* Contribute to production codebases
+* Learn from experienced developers
+* Improve my engineering and problem-solving skills
+* Grow into a strong **Full-Stack Software Engineer**
+
+---
+
+## 🤝 Let's Connect
+
+<p align="left">
+  <a href="https://github.com/sonyvakode">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://in.linkedin.com/in/sony-vakode-06a304349">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 💡 "Build. Learn. Ship. Repeat."
+
+⭐ Feel free to explore my repositories and connect with me.
