@@ -1,61 +1,44 @@
-╭──────────────────────────────────────────────────────────────╮
-│                                                              │
-│                     SONY VAKODE                              │
-│                                                              │
-│             FULL-STACK DEVELOPER                             │
-│                                                              │
-│      React • Next.js • Node.js • TypeScript                  │
-│                                                              │
-│       Building digital products that people use.             │
-│                                                              │
-│        [ GitHub ]   [ LinkedIn ]   [ Projects ]              │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
+<div align="center">
 
-                    ABOUT / TERMINAL
-          ┌──────────────────────────────────┐
-          │ $ whoami                         │
-          │ sony@developer:~$               │
-          │                                  │
-          │ Full-Stack Developer             │
-          │ CSE Student                     │
-          │ Hyderabad, India                │
-          │                                  │
-          │ $ currently_building             │
-          │ → React applications             │
-          │ → Next.js products               │
-          │ → REST APIs                      │
-          └──────────────────────────────────┘
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,14,18&text=SONY%20VAKODE&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=FULL-STACK%20DEVELOPER&descAlignY=60&descSize=20&animation=fadeIn" width="100%"/>
 
-                    TECH STACK
+<br>
 
-       React     Next.js     Node     TypeScript
-       MongoDB   Express     Tailwind  Git
+<a href="https://readme-typing-svg.demolab.com/">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=800&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;React+%7C+Next.js+%7C+Node.js;Turning+Ideas+Into+Real+Products;Final-Year+CSE+Student;Always+Learning+%7C+Always+Building" />
+</a>
 
-                    SELECTED WORK
+<br><br>
 
-       ┌─────────────────┐   ┌─────────────────┐
-       │  E-COMMERCE     │   │  WASTE2VALUE    │
-       │                 │   │                 │
-       │  Full Stack     │   │  Marketplace    │
-       │  → View Project │   │  → View Project │
-       └─────────────────┘   └─────────────────┘
+<a href="https://github.com/sonyvakode">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://in.linkedin.com/in/sony-vakode-06a304349">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-       ┌─────────────────┐   ┌─────────────────┐
-       │  AGRI-SENSE     │   │  HIDDENGEMS     │
-       │                 │   │  ANDROID APP    │
-       └─────────────────┘   └─────────────────┘
+<br><br>
 
-       ┌─────────────────┐
-       │ MENTAL WELLNESS │
-       └─────────────────┘
+<img src="https://komarev.com/ghpvc/?username=sonyvakode&style=flat-square&color=blue" />
 
-                    GITHUB ACTIVITY
+</div>
 
-                 █ █ █ █ ░ █ █ █
-                 █ ░ █ █ █ █ ░ █
-                 █ █ █ ░ █ █ █ █
+---
 
-                    LET'S CONNECT
+<div align="center">
 
-              BUILD • LEARN • SHIP • REPEAT
+## 👩‍💻 About Me
+
+</div>
+
+I'm **Sony Vakode**, a **Final-Year Computer Science Engineering student** focused on building modern, responsive and scalable web applications.
+
+I enjoy working across the stack — from creating polished interfaces with **React & Next.js** to developing APIs, handling databases and deploying complete applications.
+
+```text
+Frontend        →  React • Next.js • TypeScript • Tailwind
+Backend         →  Node.js • Express • REST APIs
+Database        →  MongoDB • MySQL
+Development     →  Git • GitHub • Vercel
+Currently       →  Full-Stack Development + DSA
