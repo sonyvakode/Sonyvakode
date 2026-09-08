@@ -228,7 +228,7 @@ A digital platform for collecting and preserving traditional Indian regional pro
 
 </div>
 
-### 🚀 Tech Lead Intern — Viswam.ai
+### 🚀 Tech Lead Intern — Viswam.ai(IIIT)
 
 Contributing to application development and regional-language data collection workflows.
 
